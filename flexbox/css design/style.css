@@ -1,9 +1,14 @@
+
 .box{
     text-align: center;
     background-color: #ff004f;
     font-size: 50px;
     color: #fff;
     font-weight: 400;
+    
+}
+/*-------css for small screen----*/
+.box{
     display: none;
 }
 @media (max-width: 400px){
@@ -28,7 +33,4 @@
         display:block;
         background-color: #eee;
     }
-}
-@media screen {
-    
 }

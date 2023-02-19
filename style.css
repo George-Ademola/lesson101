@@ -109,3 +109,10 @@ img[src*="..img"]{
 h2[class~=article-subtitle]{
     background:green;
 }
+
+
+
+/* -------media screen------*/
+@media screen and (max-width: 576px){
+    
+}
